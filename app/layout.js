@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Quotes App',
+  title: 'Motivation Pulse',
   description: 'Get Random Quotes',
 }
 
